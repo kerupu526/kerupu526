@@ -46,20 +46,14 @@
 ###
 
 <div data-importer="socials" align="left">
-  <details>
-    <summary>
-      <img
-        src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge"
-        title="Discord: ケルプ (kerupu526)"
-        height="35"
-        alt="Discord"
-      />
-    </summary>
+  <img
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge"
+    title="Discord: ケルプ (kerupu526)"
+    height="35"
+    alt="Discord"
+  />
   
-    `ケルプ (kerupu526)`
-  </details>
-  
-  <a href="유튜브_채널링크">
+  <a href="https://www.youtube.com/@%EC%BC%80%EB%A5%B4%ED%94%84">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
 </div>
