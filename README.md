@@ -16,7 +16,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=kerupu526&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/kerupu526/kerupu526/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerupu526&theme=github_dark" height="150" alt="languages graph"  />
 </div>
 
 ###
