@@ -58,7 +58,12 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/kerupu526/kerupu526/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kerupu526/kerupu526/snake-output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kerupu526/kerupu526/snake-output/snake.svg"
+    alt="Snake animation" />
+</picture>
 
 ###
 
