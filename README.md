@@ -15,7 +15,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kerupu526&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerupu526&theme=github_dark" height="150" alt="languages graph"  />
 </div>
 
