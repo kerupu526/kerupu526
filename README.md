@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=%20%CB%83%20%F0%96%A5%A6%20%CB%82&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=%20˃%20ω%20˂&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -78,7 +78,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=%20%CB%83%20%F0%96%A5%A6%20%CB%82&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=%20˃%20ω%20˂&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
